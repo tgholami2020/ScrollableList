@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScrollableList</string>
+    <string name="affirmation1">Affirmations1</string>
+    <string name="affirmation2">Affirmations2</string>
+    <string name="affirmation3">Affirmations3</string>
+    <string name="affirmation4">Affirmations4</string>
+</resources>
